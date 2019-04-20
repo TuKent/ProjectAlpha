@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.hd1-topbar
+{
+	min-height: 40px;
+	line-height: 40px;
+}
+
+.bg-thanhtu
+{
+	background-color: #F4F4F4;
+}
+.list-menu
+{
+	list-style-type:none;
+}
+.list-menu-2
+{
+	list-style-type:none;
+	text-align: left;
+	margin-left: -10px;
+}
+a
+{
+	color:#212529;
+}
+h6
+{
+	font-size: 16px;
+}
+li
+{
+	text-align: left;
+}
+a:hover
+{
+	text-decoration: inherit;
+}
+
